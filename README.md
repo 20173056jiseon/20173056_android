@@ -14,3 +14,8 @@
 <img width="" height="" src="./pic/실습코드2.PNG"></img>
 <img width="" height="" src="./pic/실행결과1.PNG"></img>
 <img width="" height="" src="./pic/실행결과2.PNG"></img>
+
+# 6주차 (2022-04-12)
+
+<img width="" height="" src="./pic/실습1.png"></img>
+<img width="" height="" src="./pic/실습2.png"></img>
