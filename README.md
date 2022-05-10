@@ -20,7 +20,7 @@
 <img width="" height="" src="./pic/실습1.png"></img>
 <img width="" height="" src="./pic/실습2.png"></img>
 
-#10주차 (2022-05-10)
+# 10주차 (2022-05-10)
 
 <img width="" height="" src="./pic/10주차실습화면1.png"></img>
 <img width="" height="" src="./pic/10주차실습화면2.png"></img>
